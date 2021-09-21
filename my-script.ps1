@@ -1,0 +1,1 @@
+Write-Output "PSCommandPath is: $PSCommandPath"
